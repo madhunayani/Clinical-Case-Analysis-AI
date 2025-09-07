@@ -4,9 +4,9 @@
 MY_EMAIL = "madhunayani12@gmail.com"
 
 # Your secret API key from OpenRouter.
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "YOUR_OPENROUTER_API_KEY"
 
-NCBI_API_KEY = "ef4f204e594e4fa7ea4b132e805aa8e4d608"
+NCBI_API_KEY = "YOUR_NCBI_API_KEY"
 
 PATIENT_COUNT = 1000
 
